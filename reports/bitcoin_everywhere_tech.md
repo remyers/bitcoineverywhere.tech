@@ -14,11 +14,6 @@ This project will be developed as an open-source online report that can be discu
 
 ### Target Audience
 
-### Research
-
-### Methodology
-* Questionaire
-
 ### Use Cases
 * Exchanges
 * Remittances
@@ -29,17 +24,34 @@ This project will be developed as an open-source online report that can be discu
 * Mining
 * Summary
 
+### Research
+
+### Methodology
+* Questionaire
+
 ### Interviews
-* Afganistan
-* El Salvador
-* Indonesia
-* Lebenon
-* Nigeria
-* Senegal
-* South Africa
+* Target Countries
+  * Afganistan
+  * Columbia
+  * El Salvador
+  * Indonesia
+  * Lebanon
+  * Nigeria
+  * Senegal
+  * South Africa
+  * Venezuela
+* Developers / Researchers
+  * Lightning
+  * Privacy
 * Summary
 
-### Technology
+### Results
+* Challenges
+* Unmet Needs
+* Commonly Used Bitcoin Technology
+* Commonly Used Communication Methods
+
+### Existing Technology
 * Bitcoin Wallets
 * Lightning Wallets
 * Secure Chat Apps
@@ -48,8 +60,6 @@ This project will be developed as an open-source online report that can be discu
 * Mixing
 * Off-grid Communication
 * Summary
-
-### Unmet Needs
 
 ### Conclusions
 
