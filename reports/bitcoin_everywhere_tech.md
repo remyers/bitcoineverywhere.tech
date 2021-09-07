@@ -4,7 +4,7 @@ subtitle: "Enabling Technologies for Bitcoin use outside of First World Countrie
 ---
 
 ### Introduction
-Millions of people around the world live without the luxuries granted in first world counties, and are in dire need of a decentralized, censorship resistant, unconfiscatable, peer-to-peer digital cash known as Bitcoin. However, with Bitcoin comes many challenges that are unique to those in Third World Countries. This report will focus on those challenges and how to best overcome these obstacles and get Bitcoin into the hands of those who truly need it.  The primary focus of this report is to address the challenges caused by unreliable and/or locally expensive telecommunication and power infrastructure, this can prevent users from sending/receiving bitcoin whenever they need to, which defeats the purpose.  The other major focus of this report will examine operating in jurisdictions where bitcoin has poor legal protection and/or is subject to arbitrary enforcement by potentially corrupt authorities.  And lastly, this report will also discuss the trade-offs between custodial and non-custodial solutions, as well as on-chain and off-chain solution for populations with limited economic resources and education.
+Millions of people around the world live without the luxuries granted in first world counties, and are in dire need of a decentralized, censorship resistant, unconfiscatable, peer-to-peer digital cash known as Bitcoin. However, the use of Bitcoin comes with many challenges that are unique to those in Third World Countries. This report will focus on those challenges and how to best overcome them and get Bitcoin into the hands of those who truly need it. The primary focus of this report is to address the challenges caused by unreliable and/or locally expensive telecommunication and power infrastructure, this can prevent users from sending/receiving bitcoin whenever they need to, which defeats its purpose. This report will also examine operating in jurisdictions where bitcoin has poor legal protection and/or is subject to arbitrary enforcement by potentially corrupt authorities.  And lastly, this report will discuss the trade-offs between custodial and non-custodial solutions, as well as on-chain and off-chain solutions for populations with limited economic resources and education.
 
 Our report will survey existing bitcoin technologies in the context of communities with poor infrastructure, internet censorship, poverty and/or local political risks. Our survey will focus on existing and future bitcoin and lightning mobile wallets, lightning communication technologies, alternative communication systems and existing non-bitcoin technologies.
 
@@ -18,10 +18,10 @@ This project will be developed as an open-source online report that can be discu
 * Exchanges
 * Remittances
 * Retail Payments
-* Task Work
+* Task Work/Freelance
 * Communication
-* Privacy
-* Mining
+* Privacy protection
+* Bitcoin mining
 * Summary
 
 ### Research
@@ -57,7 +57,7 @@ This project will be developed as an open-source online report that can be discu
 * Secure Chat Apps
 * Full Nodes
 * Onion Routing
-* Mixing
+* Coinjoin/Mixing
 * Off-grid Communication
 * Summary
 
