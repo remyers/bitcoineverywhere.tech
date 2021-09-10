@@ -1,7 +1,7 @@
 ---
-title: "Bitcoin Everywhere: Technology Review"
-subtitle: "Enabling Technologies for Bitcoin use outside of First World Countries."
+title: "Technology Review"
 ---
+<sub>Enabling Technologies for Bitcoin use outside of First World Countries.</sub>
 
 ### Introduction
 Millions of people around the world live without the luxuries granted in first world counties, and are in dire need of a decentralized, censorship resistant, unconfiscatable, peer-to-peer digital cash known as Bitcoin. However, the use of Bitcoin comes with many challenges that are unique to those in Third World Countries. This report will focus on those challenges and how to best overcome them and get Bitcoin into the hands of those who truly need it. The primary focus of this report is to address the challenges caused by unreliable and/or locally expensive telecommunication and power infrastructure, this can prevent users from sending/receiving bitcoin whenever they need to, which defeats its purpose. This report will also examine operating in jurisdictions where bitcoin has poor legal protection and/or is subject to arbitrary enforcement by potentially corrupt authorities.  And lastly, this report will discuss the trade-offs between custodial and non-custodial solutions, as well as on-chain and off-chain solutions for populations with limited economic resources and education.
