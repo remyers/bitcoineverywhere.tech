@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 twitter_username: MarketsByLili
 github_username:  MarketsByLili
-telegram_username: bitcoineverywhere1
+telegram: bitcoineverywhere1
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
