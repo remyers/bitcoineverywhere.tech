@@ -1,5 +1,7 @@
 ---
-title: "Reports"
+layout: page
+title: Reports
+permalink: /reports/
 ---
 
-* [Bitcoin Everywhere: Technology Review](bitcoin_everywhere_tech.md)
+* [Technology Review](bitcoin_everywhere_tech.md)
