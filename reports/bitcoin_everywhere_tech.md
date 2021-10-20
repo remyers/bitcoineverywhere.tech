@@ -14,15 +14,9 @@ This project will be developed as an open-source online report that can be discu
 
 ### Target Audience
 
-### Use Cases
-* Exchanges
-* Remittances
-* Retail Payments
-* Task Work/Freelance
-* Communication
-* Privacy protection
-* Bitcoin mining
-* Summary
+```TODO - target audience for this report```
+
+### [Use Cases](technology_review/use_cases.md)
 
 ### Research
 
