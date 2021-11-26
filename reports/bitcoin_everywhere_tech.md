@@ -27,11 +27,11 @@ This project will be developed as an open-source online report that can be discu
 ### Research
 
 ### Methodology
-* Questionaire
+* [Questionnaire](technology_review/questionaire.md)
 
 ### Interviews
 * Target Countries
-  * Afganistan
+  * Afghanistan
   * Columbia
   * El Salvador
   * Indonesia
