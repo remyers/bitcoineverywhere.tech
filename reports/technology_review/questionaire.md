@@ -143,8 +143,17 @@ Do most people you know communicate using a smartphone?
 - [ ] No
 
 ### Additional questions
-If you want to be contacted with an updated survey, please provide us with an email address or best contact method: ______________________________________________
+If you want to be contacted with an updated survey, please provide us with an email address or best contact method (eg. Telegram, Twitter, etc.): ______________________________________________
 
 ### Comments
 Add any stories about problems using Bitcoin that might be unique to your country here:
+______________________________________________
+
+### Optional
+Where do you live? (eg. region, country, town, etc.): ______________________________________________
+
+Would you be available for an interview?
+- [ ] Yes
+- [ ] No
+
 
