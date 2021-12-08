@@ -71,8 +71,9 @@ How often does the internet go down?
 - [ ] every week
 - [ ] every month
 - [ ] a few times a year
+- [ ] rarely
 
-For how long on average?
+For how long on average is the internet out when it goes down?
 - [ ] hours
 - [ ] days
 - [ ] weeks
@@ -123,8 +124,9 @@ How often do you have power outages?
 - [ ] every week
 - [ ] every month
 - [ ] a few times a year
+- [ ] rarely
 
-For how long on average?
+For how long on average is power unavailable when it goes out?
 - [ ] hours
 - [ ] days
 - [ ] weeks
