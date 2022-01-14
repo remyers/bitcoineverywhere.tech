@@ -14,6 +14,10 @@ This project will be developed as an open-source online report that can be discu
 
 ### Target Audience
 
+We are creating this report for people living outside of countries typically associated with Bitcoin which have mature economies and political freedom like the USA or Europe. Our target audience may not have access to affordable computing technology beyond a cell phone or reliable telecommunications. They are also less likely to be highly educated or benefit from economic and political stability. 
+
+The problems Bitcoin can solve for our target audience are likely to overlap with those in other countries, but with more emphasis on solving tangible economic problems they face.
+
 ### Use Cases
 * Exchanges
 * Remittances
