@@ -27,11 +27,15 @@ This project will be developed as an open-source online report that can be discu
 ### Research
 
 ### Methodology
-* Questionaire
+To help us assess which Bitcoin and communication technologies are best suited for hostile or low bandwidth environments we are asking people from out target audience to completing an anonymous survey.
+
+Please fill out the survey by clicking the link: [here](https://cryptpad.fr/form/#/2/form/view/lv7VEOuagTz7oA3dEQ2xqITi31cBNB1TiGSXGb7jaQU/)
+
+We will publish aggregate responses from the survey and setup interviews with those that leave their contact information. Anonymized highlights from our interviews will be published with permission.
 
 ### Interviews
 * Target Countries
-  * Afganistan
+  * Afghanistan
   * Columbia
   * El Salvador
   * Indonesia
@@ -43,6 +47,7 @@ This project will be developed as an open-source online report that can be discu
 * Developers / Researchers
   * Lightning
   * Privacy
+  * Mining
 * Summary
 
 ### Results
