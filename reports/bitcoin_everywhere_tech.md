@@ -14,19 +14,14 @@ This project will be developed as an open-source online report that can be discu
 
 ### Target Audience
 
-### Use Cases
-* Exchanges
-* Remittances
-* Retail Payments
-* Task Work/Freelance
-* Communication
-* Privacy protection
-* Bitcoin mining
-* Summary
+```TODO - target audience for this report```
+
+### [Use Cases](technology_review/use_cases.md)
 
 ### Research
 
 ### Methodology
+
 To help us assess which Bitcoin and communication technologies are best suited for hostile or low bandwidth environments we are asking people from out target audience to completing an anonymous survey.
 
 Please fill out the survey by clicking the link: [here](https://cryptpad.fr/form/#/2/form/view/lv7VEOuagTz7oA3dEQ2xqITi31cBNB1TiGSXGb7jaQU/)
