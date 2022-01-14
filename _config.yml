@@ -9,4 +9,8 @@ github_username:  MarketsByLilis
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+header_pages:
+ - reports/index.md
+ - reports/contributing.md
+
 theme: minima

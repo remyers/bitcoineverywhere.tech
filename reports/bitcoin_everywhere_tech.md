@@ -33,11 +33,11 @@ The results of this report are meant for software developers who would like to m
 ### Research
 
 ### Methodology
-* Questionaire
+* [Questionnaire](technology_review/questionaire.md)
 
 ### Interviews
 * Target Countries
-  * Afganistan
+  * Afghanistan
   * Columbia
   * El Salvador
   * Indonesia
