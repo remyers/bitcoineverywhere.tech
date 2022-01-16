@@ -20,15 +20,7 @@ The problems Bitcoin can solve for our target audience are likely to overlap wit
 
 The results of this report are meant for software developers who would like to make applications for the Bitcoin network that meet the needs of users outside of first-world countries. The need in the developing world for alternatives to traditional fiat financial services is great so projects that are well adapted to these markets can address a larger user bases than those that only target first-world users. Bitcoin projects in developing countries can also expand more easily across borders by creating tools adapted to countries with similar challenges.
 
-### Use Cases
-* Exchanges
-* Remittances
-* Retail Payments
-* Task Work/Freelance
-* Communication
-* Privacy protection
-* Bitcoin mining
-* Summary
+### [Use Cases](technology_review/use_cases.md)
 
 ### Research
 
