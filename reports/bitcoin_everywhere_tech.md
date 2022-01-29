@@ -65,15 +65,7 @@ Questions:
 
 #### Research Summary
 
-### Existing Technology
-* Bitcoin Wallets
-* Lightning Wallets
-* Secure Chat Apps
-* Full Nodes
-* Onion Routing
-* Coinjoin/Mixing
-* Off-grid Communication
-* Summary
+### [Existing Technology](technology_review/existing_technology.md)
 
 ### Conclusions
 
