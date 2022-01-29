@@ -55,15 +55,7 @@ We will publish aggregate responses from the survey and setup interviews with th
 * Commonly Used Bitcoin Technology
 * Commonly Used Communication Methods
 
-### Existing Technology
-* Bitcoin Wallets
-* Lightning Wallets
-* Secure Chat Apps
-* Full Nodes
-* Onion Routing
-* Coinjoin/Mixing
-* Off-grid Communication
-* Summary
+### [Existing Technology](technology_review/existing_technology.md)
 
 ### Conclusions
 
