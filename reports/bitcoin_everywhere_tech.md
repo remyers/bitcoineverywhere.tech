@@ -77,5 +77,26 @@ Questions:
 
 ### Conclusions
 
-* Challenges
-* Unmet Needs
+The results of our report are necessarily preliminary due to the limited amount of data we have so far. We will continue to refine this report as people from different regions complete the questionnaire and participate in interviews. We also hope our target audience will comment, [contribute](contributing.md) to this report directly and help create local language versions of the report and questionnaire. This report is intended to be a living document that reflects the best information we have to date.
+
+We need feedback from more regions, particularly in Latin America and Africa. Information from outside of urban areas is also missing and from respondants that do not currently use Bitcoin.
+
+Some challenges and unmet needs we can infer from our questionnaire results and personal interviews are summarized below. 
+
+#### Challenges
+
+* Low merchant adoption
+* Banking systems that are hostile to Bitcoin users
+* Bitcoin exchanges and services that block non-western users
+* Technical ability and understanding of how to use Bitcoin
+* Need to transact more than save and with a preference for stable US dollars as a unit of account
+* Privacy for personal safety is a concern, in particular from corrupt officials and other criminals
+* Telecommunications is available and affordable, but intermittant power outages can disrupt connectivity
+
+#### Unmet Needs
+
+* Easy to use, privacy preserving and localized Bitcoin smart phone wallets and merchant solutions
+* Solutions that allow Bitcoin users to transact with stable US dollar denominated balances
+* Solutions that do not require banks or regulated western Bitcoin exchanges and services
+* Solutions that do not leak information that could make users the target of corrupt officials or other criminals
+* Solutions that can still function with out internet access for up to a few hours at a time
