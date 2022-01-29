@@ -24,15 +24,29 @@ The results of this report are meant for software developers who would like to m
 
 ### Research
 
-### Methodology
+#### Methodology
 
 To help us assess which Bitcoin and communication technologies are best suited for hostile or low bandwidth environments we are asking people from out target audience to completing an anonymous survey.
 
 Please fill out the survey by clicking the link: [here](https://cryptpad.fr/form/#/2/form/view/lv7VEOuagTz7oA3dEQ2xqITi31cBNB1TiGSXGb7jaQU/)
 
-We will publish aggregate responses from the survey and setup interviews with those that leave their contact information. Anonymized highlights from our interviews will be published with permission.
+We will periodically publish aggregate responses from the survey. We will also setup interviews with those that leave their contact information. Anonymized highlights from our interviews will be published with permission.
 
-### Interviews
+#### Limitations
+
+Our survey and outreach is limited by being in English only and primarily via Twitter and Telegram. This will skew our respondants to include primarily expats and more highly educated and wealthy members of our target audience. We believe this population is still able to comment and give useful information on the situation in their communities. They are also likely to be early adopters and community leaders with highly relevant insights.
+
+#### Questionnaire
+
+* [results](technology_review/results_questionnaire_v3.md)
+
+#### Interviews
+
+Questions:
+* Challenges and unmet needs using Bitcoin
+* Commonly Used Bitcoin Technology
+* Commonly Used Communication Methods
+
 * Target Countries
   * Afghanistan
   * Columbia
@@ -43,17 +57,13 @@ We will publish aggregate responses from the survey and setup interviews with th
   * Senegal
   * South Africa
   * Venezuela
+
 * Developers / Researchers
   * Lightning
   * Privacy
   * Mining
-* Summary
 
-### Results
-* Challenges
-* Unmet Needs
-* Commonly Used Bitcoin Technology
-* Commonly Used Communication Methods
+#### Research Summary
 
 ### Existing Technology
 * Bitcoin Wallets
@@ -67,3 +77,5 @@ We will publish aggregate responses from the survey and setup interviews with th
 
 ### Conclusions
 
+* Challenges
+* Unmet Needs
