@@ -7,6 +7,9 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * Bitcoin Wallets
 * Lightning Wallets
 * Secure Chat Apps
+* Briar messenger - Unlike traditional messaging apps, Briar is a peer-to-peer encrypted messenger with no central server to relay info or store users’ messages. Messages are stored on the devices of the sender and receiver only. Briar uses the Tor network to send and receive messages and all communications are free of metadata. Read more
+* Threema - A secure and open source E2EE messaging app that also enables voice calls. Users do need to pay a small one-time fee (~$5 USD), but the payments can be made with bitcoin, no identifying information is collected, and instead of a phone number, each user receives a unique Threema ID. Plus there is a desktop extension that runs off of the users phone if wanted. Read more
+
 * Full Nodes
 * Onion Routing
 * Orbot: is an internet proxy that routes user traffic through the Tor network and offers a built-in VPN feature that cannot be blocked by as easily as other VPN use because it will keep bouncing from system to system until a connection is established. Also, unlike other VPN apps, Orbot doesn’t render any advertisements in its interface. Orbot users trade fast browsing speed for assurance that their activity isn’t logged, however, because Tor routing significantly reduces internet routing speeds. 
