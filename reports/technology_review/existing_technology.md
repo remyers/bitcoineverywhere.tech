@@ -9,6 +9,8 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * Secure Chat Apps
 * Full Nodes
 * Onion Routing
+* Orbot: is an internet proxy that routes user traffic through the Tor network and offers a built-in VPN feature that cannot be blocked by as easily as other VPN use because it will keep bouncing from system to system until a connection is established. Also, unlike other VPN apps, Orbot doesn’t render any advertisements in its interface. Orbot users trade fast browsing speed for assurance that their activity isn’t logged, however, because Tor routing significantly reduces internet routing speeds. 
+
 * Coinjoin/Mixing'
 * Transaction histories on all public blockchains are easily auditable. Coinjoining, or mixing, is a simple way for miners to protect their financial privacy by obscuring the history of their holdings. Sometimes referred to as “cleaning” by privacy advocates, the mixing process prevents blockchain data watchers from following where coins originated and accessing their full transaction history. Users should note that mixing is often used interchangeably with "tumbling" and "coinjoin." "Tumbling" is an older technique where users give up custody of their coins and hopefully receive coins with a different history. In this article, we will use the term "mixing" in reference to "coinjoin" transactions.
 * A coinjoin is a multi-party transaction where several senders contribute coins to a mix and receive the same amount of bitcoin to complete the transaction. After a mix has completed, a blockchain watcher cannot know which transaction output is linked to an input. Coinjoin transactions are non-custodial and do not require trust or handing over keys like tumbling.
