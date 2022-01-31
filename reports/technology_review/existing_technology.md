@@ -7,8 +7,9 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * Bitcoin Wallets
 * Lightning Wallets
 * Secure Chat Apps
-* Briar messenger - Unlike traditional messaging apps, Briar is a peer-to-peer encrypted messenger with no central server to relay info or store users’ messages. Messages are stored on the devices of the sender and receiver only. Briar uses the Tor network to send and receive messages and all communications are free of metadata. Read more
-* Bridgefy is an offline messaging app that doesn’t require internet access. Users can communicate through Bluetooth. 
+* Serval Mesh project: Allows you to communicate privately anytime and anywhere. Users can keep using their existing phone number on mesh, which is key in a disaster situation when people are trying quickly contact each other. http://www.servalproject.org/ 
+* Briar messenger - Unlike traditional messaging apps, Briar is a peer-to-peer encrypted messenger with no central server to relay info or store users’ messages. Messages are stored on the devices of the sender and receiver only. Briar uses the Tor network to send and receive messages and all communications are free of metadata. https://briarproject.org/index.html
+* Bridgefy is an offline messaging app that doesn’t require internet access. Users can communicate through Bluetooth. It is available for both Android and iOS. https://apps.apple.com/us/app/bridgefy/id975776347
 * The 3 ways Bridgefy works:
 * Person to Person Mode – Turn on your Bluetooth and chat privately with people that are within 330 feet (100 meters) of you.
 * Mesh Mode – Chat with people more than 330 feet from you by connecting through other Bridgefy users found in the middle. Example: person 1 can talk to person 3 if person 2 is in the middle, making the possible distance 660 feet (200 meters). 
