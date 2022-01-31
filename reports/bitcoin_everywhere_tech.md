@@ -44,30 +44,6 @@ Our survey and outreach is limited by being in English only and primarily via Tw
 
 * [results](technology_review/results_questionnaire_v3.md)
 
-#### Interviews
-
-Questions:
-* Challenges and unmet needs using Bitcoin
-* Commonly Used Bitcoin Technology
-* Commonly Used Communication Methods
-
-* Target Countries
-  * Afghanistan
-  * Columbia
-  * El Salvador
-  * Indonesia
-  * Iran
-  * Lebanon
-  * Nigeria
-  * Senegal
-  * South Africa
-  * Venezuela
-
-* Developers / Researchers
-  * Lightning
-  * Privacy
-  * Mining
-
 #### Research Summary
 
 ### [Existing Technology](technology_review/existing_technology.md)
