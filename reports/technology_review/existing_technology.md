@@ -8,11 +8,6 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * [Samourai wallet](https://samouraiwallet.com/): a true free and open-source Bitcoin wallet that puts privacy first. Available on Android, Samourai Wallet features a CoinJoin implementation called Whirlpool that breaks deterministic links to prior on-chain activity. Additionally, there are a variety of post-mix spending tools to help the user maintain anonymity. All communications in Samourai Wallet are carried out over Tor and the mobile wallet can be connected to the user’s own RoninDojo full node. Samourai wallet can be used in offline mode, transactions will broadcast after wifi or cell service is restored.
 
 * [Sparrow Wallet](https://www.sparrowwallet.com/): a desktop Bitcoin wallet that is free and open source. Sparrow Wallet features an intuitive user interface and is easy for beginners to start understanding the basics but also has many advanced features for more technical users. Sparrow Wallet also implemented Whirlpool CoinJoin. Users in countries hostile to bitcoin can use Sparrow coincontrol and coinjoin to ensure that they won't be tracked by bad actors, such as local police and chainalysis companies. 
-
-### Lightning Wallets
-
-* Bluewallet
-* Muun wallet
  
 ### Secure Chat Apps
 * [Serval Mesh project](http://www.servalproject.org/): Allows you to communicate privately anytime and anywhere. Users can keep using their existing phone number on mesh, which is key in a disaster situation when people are trying quickly contact each other. 
