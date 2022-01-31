@@ -54,9 +54,9 @@ For optimal privacy, consistent and multiple remixes are ideal. Why does this ma
 * Step 4 - Building a transaction with offline phone: open samourai -> settings -> transactions -> uncheck ‘broadcast transactions’, send a txn: click ‘+’ -> send -> fill info -> click show QR code -> copy to clipboard, open txTenna -> click ‘+’ -> goTenna mesh, paste hex from clipboard
 * In the txTenna app, you’ll see the txn status pop up and change from ‘relayed via goTenna mesh network’ to ‘broadcast to bitcoin network’. To check Txn status: click ‘explore’ or use http://mempool.space via Tor and search by txid. The receiver will have the ‘explore’ option
 *
-* How to download maps in GoTenna for offline use: download goTenna app from app store, search by city or zip, under topographic maps at the bottom, hit the download button, and adjust the area on the map that you would like to download.
+* How to download maps in GoTenna for offline use: download goTenna app from app store, search by city or zip, under topographic maps at the bottom, hit the download button, and adjust the area on the map that you would like to download. To access downloaded maps: click dots menu -> my maps
 * Using goTenna mesh devices with Txtenna is a great way to transact in a censorship resistant way. This isn't practical for day to day txns but it would work well in emergency situations or smaller towns. 
 
-To access downloaded maps: click dots menu -> my maps
+
 
 ### Summary
