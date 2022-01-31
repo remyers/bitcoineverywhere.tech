@@ -61,3 +61,4 @@ For optimal privacy, consistent and multiple remixes are ideal. Why does this ma
 
 
 ### Summary
+* People residing in low bandwidth areas can use the above technologies to communicate with each other in the event of an internet outage. They should also utilize the above tools when using bitcoin if their country's government, local political groups or legacy finance system are unfriendly towards the cryptocurrency.
