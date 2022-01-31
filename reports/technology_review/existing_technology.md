@@ -8,10 +8,10 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * Lightning Wallets
 * Secure Chat Apps
 * Serval Mesh project: Allows you to communicate privately anytime and anywhere. Users can keep using their existing phone number on mesh, which is key in a disaster situation when people are trying quickly contact each other. http://www.servalproject.org/ 
-* Briar messenger - Unlike traditional messaging apps, Briar is a peer-to-peer encrypted messenger with no central server to relay info or store users’ messages. Messages are stored on the devices of the sender and receiver only. Briar uses the Tor network to send and receive messages and all communications are free of metadata. https://briarproject.org/index.html
-* Bridgefy is an offline messaging app that doesn’t require internet access. Users can communicate through Bluetooth. It is available for both Android and iOS. https://apps.apple.com/us/app/bridgefy/id975776347
+* Briar messenger: Unlike traditional messaging apps, Briar is a peer-to-peer encrypted messenger with no central server to relay info or store users’ messages. Messages are stored on the devices of the sender and receiver only. Briar uses the Tor network to send and receive messages and all communications are free of metadata. https://briarproject.org/index.html
+* Bridgefy: is an offline messaging app that doesn’t require internet access. Users can communicate through Bluetooth. It is available for both Android and iOS. https://apps.apple.com/us/app/bridgefy/id975776347
 * The 3 ways Bridgefy works: Person to Person Mode (turn on your Bluetooth and chat privately with people that are within 330 feet of you), Mesh Mode (Chat with people more than 330 feet from you by connecting through other Bridgefy users found in the middle), Broadcast Mode (Go into the Broadcast section and send messages to every Bridgefy user around you at the same time, even if you don’t have them on your contacts list).
-
+* Vojer: an encrypted messenger that supports photo sharing, texting, and voice messages. Users can connect without 3G/4G or Wi-Fi coverage. Vojer doesn’t have intermediate servers or websites. Vojer doesn’t request extra permissions except those required to operate – WiFi, Bluetooth, and Microphone. This application is for iOS only. https://apps.apple.com/us/app/vojer-be-connected-conference-or-in-roaming-be-intouch/id913585553
 * Manyverse: peer-to-peer social networking on mobile; no servers or internet required https://www.manyver.se/ 
 * 
 * Full Nodes
