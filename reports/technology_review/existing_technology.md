@@ -46,5 +46,11 @@ For optimal privacy, consistent and multiple remixes are ideal. Why does this ma
 
 * GoTenna mesh: a consumer ready solution that users can use to create mesh networks with the goTenna devices and their smartphones. This can be done anywhere. Users can exchange messages with eachother in the event of an internet outage https://gotennamesh.com/
 * GoTenna mesh can also be used with the TxTenna app to broadcast bitcoin transactions without internet access. 
-
+* Equipment: goTenna app, txTenna app – download from github, goTenna mesh devices (min 2), and Samourai wallet installed on sender and receiver’s phones.
+* Step 1 - mesh set up in goTenna app: Install goTenna app and follow instructions to set up your goTenna mesh device , watch for indicator light on the goTenna mesh to pulse (this means it’s ready for pairing), close this app and make sure the mesh device is not paired to it. Finally, switch to txTenna app.
+* Step 2 - Download txTenna & build a transaction (txn)
+* Download Txtenna (on mobile): open this link https://github.com/remyers/txTenna/releases, click on ‘Beta 0.96’ -> assets -> app production APK, once that APK is downloaded just click on it to install
+* Step 3 - Open and set up txTenna app: click on dots symbol -> settings -> geographical region (both phones pairing w/ goTenna need to be set to the same region). To pair w/ mesh: power on -> click wifi symbol -> pair device. When paired you will see a green dot, click on it, if goTenna device blinks you’re good
+* Step 4 - Building a transaction with offline phone: open samourai -> settings -> transactions -> uncheck ‘broadcast transactions’, send a txn: click ‘+’ -> send -> fill info -> click show QR code -> copy to clipboard, open txTenna -> click ‘+’ -> goTenna mesh, paste hex from clipboard
+* In the txTenna app, you’ll see the txn status pop up and change from ‘relayed via goTenna mesh network’ to ‘broadcast to bitcoin network’. To check Txn status: click ‘explore’ or use http://mempool.space via Tor and search by txid. The receiver will have the ‘explore’ option
 ### Summary
