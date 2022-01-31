@@ -5,7 +5,9 @@ title: "Existing Technology"
 We summarize below existing Bitcoin technology, how it is relevant for our target audience and offer suggestions for how it could be improved.
 
 * Bitcoin Wallets
-* Samourai wallet
+* Samourai wallet: a true free and open-source Bitcoin wallet that puts privacy first. Available on Android, Samourai Wallet features a CoinJoin implementation called Whirlpool that breaks deterministic links to prior on-chain activity. Additionally, there are a variety of post-mix spending tools to help the user maintain anonymity. All communications in Samourai Wallet are carried out over Tor and the mobile wallet can be connected to the user’s own RoninDojo full node. Samourai wallet can be used in offline mode, transactions will broadcast after wifi or cell service is restored. https://samouraiwallet.com/
+*
+* Sparrow Wallet: a desktop Bitcoin wallet that is free and open source. Sparrow Wallet features an intuitive user interface and is easy for beginners to start understanding the basics but also has many advanced features for more technical users. Sparrow Wallet also implemented Whirlpool CoinJoin. Users in countries hostile to bitcoin can use Sparrow coincontrol and coinjoin to ensure that they won't be tracked by bad actors, such as local police and chainalysis companies. https://www.sparrowwallet.com/ 
 * 
 * Lightning Wallets
 * 
@@ -36,9 +38,10 @@ For optimal privacy, consistent and multiple remixes are ideal. Why does this ma
 
 * Tools for Coinjoining
 
-* Samourai's Whirlpool: A full zerolink coinjoin implementation. Users pay a fee to use the service. For optimal privacy, users should run their own Dojo or RoninDojo with Whirlpool.  Sparrow wallet also offers an implementation of Whirlpool.
-* Joinmarket: This implementation is structured as a maker/taker approach, by creating a marketplace for coinjoins. The takers pay for coinjoins because they require them on demand. The makers provide the coinjoin liquidity and are compensated with a fee. Takers construct a mix and get to see the relationship between inputs and outputs, unlike the blinded whirlpool coordinator. This offers the takers an added layer of privacy.
-
+* Samourai's Whirlpool: A full zerolink coinjoin implementation. Users pay a fee to use the service. For optimal privacy, users should run their own Dojo or RoninDojo with Whirlpool.  Sparrow wallet also offers an implementation of Whirlpool. https://www.samouraiwallet.com/whirlpool https://bitcoiner.guide/whirlpool/
+*
+* Joinmarket: This implementation is structured as a maker/taker approach, by creating a marketplace for coinjoins. The takers pay for coinjoins because they require them on demand. The makers provide the coinjoin liquidity and are compensated with a fee. Takers construct a mix and get to see the relationship between inputs and outputs, unlike the blinded whirlpool coordinator. This offers the takers an added layer of privacy. https://github.com/JoinMarket-Org/joinmarket-clientserver https://www.keepitsimplebitcoin.com/joinmarket/ 
+*
 * Off-grid Communication
 
 * GoTenna mesh
