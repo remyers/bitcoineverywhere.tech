@@ -26,7 +26,11 @@ The results of this report are meant for software developers who would like to m
 
 #### Methodology
 
-To help us assess which Bitcoin and communication technologies are best suited for hostile or low bandwidth environments we are asking people from out target audience to completing an anonymous survey.
+To help us assess which Bitcoin and communication technologies are best suited for hostile or low bandwidth environments we are asking people from out target audience to complete an anonymous survey.
+
+Gathering data on needs and challenges is essential before recommending solutions. The survey methodology we used to identify challenges surrounding bitcoin usage in the areas of interest is discussed here. We conducted this survey using [cryptpad](https://cryptpad.fr/form) forms, a FOSS tool, instead of opting for common commercial tools, including Google forms and Survey Monkey. This decision was made to protect the survey participants’ privacy. This survey is a mix of multiple choice, multi selection, and free response questions. 
+
+To property capture information on demographics, infrastructure, political challenges, and bitcoin awareness levels per region we broke down the questionnaire by the following sections: general bitcoin usage, bitcoin usage concerns/challenges, location safety, internet access, power infrastructure, and communications. We also asked participants if they would be available for follow-up questions.
 
 Please fill out the survey by clicking the link: [here](https://cryptpad.fr/form/#/2/form/view/lv7VEOuagTz7oA3dEQ2xqITi31cBNB1TiGSXGb7jaQU/)
 
@@ -52,6 +56,7 @@ Questions:
   * Columbia
   * El Salvador
   * Indonesia
+  * Iran
   * Lebanon
   * Nigeria
   * Senegal
