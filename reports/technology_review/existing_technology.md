@@ -5,7 +5,13 @@ title: "Existing Technology"
 We summarize below existing Bitcoin technology, how it is relevant for our target audience and offer suggestions for how it could be improved.
 
 * Bitcoin Wallets
+* Samourai wallet
+* 
 * Lightning Wallets
+* 
+* Bluewallet
+* Muun wallet
+* 
 * Secure Chat Apps
 * Serval Mesh project: Allows you to communicate privately anytime and anywhere. Users can keep using their existing phone number on mesh, which is key in a disaster situation when people are trying quickly contact each other. http://www.servalproject.org/ 
 * Briar messenger: Unlike traditional messaging apps, Briar is a peer-to-peer encrypted messenger with no central server to relay info or store users’ messages. Messages are stored on the devices of the sender and receiver only. Briar uses the Tor network to send and receive messages and all communications are free of metadata. https://briarproject.org/index.html
@@ -15,6 +21,7 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * Manyverse: peer-to-peer social networking on mobile; no servers or internet required https://www.manyver.se/ 
 * 
 * Full Nodes
+* 
 * Onion Routing
 * Tor: Tor use is also referred to as “the onion router”. Tor is an anonymizing computer network designed to help people in countries where Internet access may be censored or monitored. When a user connects to Tor, their internet activity is sent through the Tor network, anonymizing their internet activity to prevent snooping, and allow them to access websites that may be blocked in certain jurisdictions.
 * Orbot: is an internet proxy that routes user traffic through the Tor network and offers a built-in VPN feature that cannot be blocked by as easily as other VPN use because it will keep bouncing from system to system until a connection is established. Also, unlike other VPN apps, Orbot doesn’t render any advertisements in its interface. Orbot users trade fast browsing speed for assurance that their activity isn’t logged, however, because Tor routing significantly reduces internet routing speeds. 
@@ -33,5 +40,8 @@ For optimal privacy, consistent and multiple remixes are ideal. Why does this ma
 * Joinmarket: This implementation is structured as a maker/taker approach, by creating a marketplace for coinjoins. The takers pay for coinjoins because they require them on demand. The makers provide the coinjoin liquidity and are compensated with a fee. Takers construct a mix and get to see the relationship between inputs and outputs, unlike the blinded whirlpool coordinator. This offers the takers an added layer of privacy.
 
 * Off-grid Communication
+
+* GoTenna mesh
+* GoTenna mesh with TxTenna app to broadcast bitcoin transactions without internet access
 
 ### Summary
