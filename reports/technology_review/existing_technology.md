@@ -23,7 +23,8 @@ We summarize below existing Bitcoin technology, how it is relevant for our targe
 * Manyverse: peer-to-peer social networking on mobile; no servers or internet required https://www.manyver.se/ 
 * 
 * Full Nodes
-* 
+* Running a bitcoin node gives a user increased privacy over their funds without trusting their wallet provider’s nodes. Users can run nodes with dedicated hardware and install node software (Umbrel,RoninDojo, MyNode, RaspiBlitz). Dedicated node hardware may be hard to source in developing or third world countries. It is probably more feasible for people living in these areas to run bitcoin core on an old laptop.
+* Basic set up for a bitcoin core node: laptop, 1TB SSD, and Bitcoin Core downloaded from https://bitcoin.org/en/full-node
 * Onion Routing
 * Tor: Tor use is also referred to as “the onion router”. Tor is an anonymizing computer network designed to help people in countries where Internet access may be censored or monitored. When a user connects to Tor, their internet activity is sent through the Tor network, anonymizing their internet activity to prevent snooping, and allow them to access websites that may be blocked in certain jurisdictions.
 * Orbot: is an internet proxy that routes user traffic through the Tor network and offers a built-in VPN feature that cannot be blocked by as easily as other VPN use because it will keep bouncing from system to system until a connection is established. Also, unlike other VPN apps, Orbot doesn’t render any advertisements in its interface. Orbot users trade fast browsing speed for assurance that their activity isn’t logged, however, because Tor routing significantly reduces internet routing speeds. 
