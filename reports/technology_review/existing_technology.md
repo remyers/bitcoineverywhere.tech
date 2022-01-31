@@ -44,7 +44,7 @@ For optimal privacy, consistent and multiple remixes are ideal. Why does this ma
 *
 * Off-grid Communication
 
-* GoTenna mesh
-* GoTenna mesh with TxTenna app to broadcast bitcoin transactions without internet access
+* GoTenna mesh: a consumer ready solution that users can use to create mesh networks with the goTenna devices and their smartphones. This can be done anywhere. Users can exchange messages with eachother in the event of an internet outage https://gotennamesh.com/
+* GoTenna mesh can also be used with the TxTenna app to broadcast bitcoin transactions without internet access. 
 
 ### Summary
